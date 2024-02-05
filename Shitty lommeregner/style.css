@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(77, 77, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titel{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(162, 43, 209);
+}
+#numberOneTextLabel{
+    color: aliceblue;
+}
+#numberTwoTextLabel{
+    color: aliceblue;
+}
+#plusLabel{
+    color: aliceblue;
+}
+#minusLabel{
+    color: aliceblue;
+}
+#gangeLabel{
+    color: aliceblue;
+}
+#dividereLabel{
+    color: aliceblue;
+}
+#modulusLabel{
+    color: aliceblue;
+}
+#plusLabel{
+    color: aliceblue;
+}
+#submit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px 7px;
+}
+#result{
+    color: aliceblue;
+}
